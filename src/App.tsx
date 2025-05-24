@@ -140,7 +140,7 @@ function App() {
               <h1 className="text-4xl md:text-6xl font-bold mb-4">
                 <span className="text-blue-400">Hello, I&apos;m</span>
                 <br />
-                Dilip Singh Bhati
+                Dilip Singh Bhati001
               </h1>
               <h2 className="text-xl md:text-2xl text-gray-300 mb-6">
                 Web Development Aspirant

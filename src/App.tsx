@@ -566,51 +566,78 @@ function App() {
         </section>
 
         {/* Certifications Section */}
-        <section className="py-20 px-4">
-          <div className="container mx-auto">
-            <h2 className="text-3xl md:text-4xl font-bold mb-12 text-center">
-              <span className="border-b-4 border-blue-400 pb-2">
-                Certifications
-              </span>
-            </h2>
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-4xl mx-auto">
-              <div className="bg-gray-800/80 p-6 rounded-lg shadow-lg border border-gray-700 hover:border-blue-400 transition-colors duration-300">
-                <h3 className="text-xl font-bold text-blue-400 mb-3">
-                  Advanced Java Course
-                </h3>
-                <p className="text-gray-300 mb-4">MSME Technology Centre</p>
-                <p className="text-gray-400">
-                  Completed an advanced course on Java programming, covering
-                  core concepts, object-oriented programming, and application
-                  development.
-                </p>
-              </div>
+       <section className="py-20 px-4">
+  <div className="container mx-auto">
+    <h2 className="text-3xl md:text-4xl font-bold mb-12 text-center">
+      <span className="border-b-4 border-blue-400 pb-2">
+        Certifications
+      </span>
+    </h2>
+    <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-4xl mx-auto">
 
-              <div className="bg-gray-800/80 p-6 rounded-lg shadow-lg border border-gray-700 hover:border-blue-400 transition-colors duration-300">
-                <h3 className="text-xl font-bold text-blue-400 mb-3">
-                  Summer Internship Program
-                </h3>
-                <p className="text-gray-300 mb-4">IBM</p>
-                <p className="text-gray-400">
-                  Participated in IBM&apos;s summer internship program, gaining
-                  hands-on experience with industry-standard technologies and
-                  development practices.
-                </p>
-              </div>
+      {/* Certificate 1 */}
+      <div className="bg-gray-800/80 p-6 rounded-lg shadow-lg border border-gray-700 hover:border-blue-400 transition-colors duration-300">
+        <h3 className="text-xl font-bold text-blue-400 mb-3">
+          Advanced Java Course
+        </h3>
+        <p className="text-gray-300 mb-4">MSME Technology Centre</p>
+        <p className="text-gray-400 mb-4">
+          Completed an advanced course on Java programming, covering core
+          concepts, object-oriented programming, and application development.
+        </p>
+        <a
+          href="https://drive.google.com/file/d/1935CkvnbGcqW_O82Mu-IiLtNGLiebynG/view?usp=drivesdk"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="inline-block bg-blue-500 hover:bg-blue-600 text-white text-sm font-semibold py-2 px-4 rounded transition duration-300"
+        >
+          Check
+        </a>
+      </div>
 
-              <div className="bg-gray-800/80 p-6 rounded-lg shadow-lg border border-gray-700 hover:border-blue-400 transition-colors duration-300">
-                <h3 className="text-xl font-bold text-blue-400 mb-3">
-                  Web Development Internship
-                </h3>
-                <p className="text-gray-300 mb-4">AMPARO SECURE TECH</p>
-                <p className="text-gray-400">
-                  Completed a 3-month internship focusing on web development
-                  technologies and best practices in a professional environment.
-                </p>
-              </div>
-            </div>
-          </div>
-        </section>
+      {/* Certificate 2 */}
+      <div className="bg-gray-800/80 p-6 rounded-lg shadow-lg border border-gray-700 hover:border-blue-400 transition-colors duration-300">
+        <h3 className="text-xl font-bold text-blue-400 mb-3">
+          Summer Internship Program
+        </h3>
+        <p className="text-gray-300 mb-4">IBM</p>
+        <p className="text-gray-400 mb-4">
+          Participated in IBM&apos;s summer internship program, gaining hands-on
+          experience with industry-standard technologies and development practices.
+        </p>
+        <a
+          href="https://drive.google.com/file/d/19-qGjTR1wapU9H2OSxCDdPES6Rzuh3pZ/view?usp=drivesdk"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="inline-block bg-blue-500 hover:bg-blue-600 text-white text-sm font-semibold py-2 px-4 rounded transition duration-300"
+        >
+          Check
+        </a>
+      </div>
+
+      {/* Certificate 3 */}
+      <div className="bg-gray-800/80 p-6 rounded-lg shadow-lg border border-gray-700 hover:border-blue-400 transition-colors duration-300">
+        <h3 className="text-xl font-bold text-blue-400 mb-3">
+          Web Development Internship
+        </h3>
+        <p className="text-gray-300 mb-4">AMPARO SECURE TECH</p>
+        <p className="text-gray-400 mb-4">
+          Completed a 3-month internship focusing on web development technologies
+          and best practices in a professional environment.
+        </p>
+        <a
+          href="https://drive.google.com/file/d/191dfMrgySJqOPBptzxH_dmxVMlETauBb/view?usp=drivesdk"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="inline-block bg-blue-500 hover:bg-blue-600 text-white text-sm font-semibold py-2 px-4 rounded transition duration-300"
+        >
+          Check
+        </a>
+      </div>
+
+    </div>
+  </div>
+</section>
 
         {/* Contact Section */}
         <section id="contact" className="py-20 px-4 bg-gray-800/50">

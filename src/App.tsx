@@ -10,6 +10,7 @@ import {
   Download,
 } from "lucide-react";
 import "./index.css";
+import profilePic from "./img/profilepic.jpeg";
 
 function App() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -199,7 +200,7 @@ function App() {
               <div className="relative">
                 <div className="w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-blue-400 shadow-xl shadow-blue-500/20">
                   <img
-                    src="https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                    src={profilePic}
                     alt="Profile"
                     className="w-full h-full object-cover"
                   />

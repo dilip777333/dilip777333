@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dilip Singh Bhati</h1>
-<h3 align="center">Aspiring Full Stack Developer | Passionate about Web Development</h3>
+<h3 align="center">Full Stack Developer | React • Next.js • Node.js • PostgreSQL</h3>
 
 <p align="center">
   <a href="mailto:bhatidilip10@gmail.com"><img src="https://img.shields.io/badge/Email-bhatidilip10@gmail.com-red?style=for-the-badge&logo=gmail"></a>
@@ -9,73 +9,100 @@
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-🎓 I'm currently pursuing **B.Tech in IT Engineering** at **M.L.V.T. Engineering College, Bhilwara**  
-📅 **Expected Graduation:** May 2026  
-📍 Based in **Bhilwara, Rajasthan, India**
+I'm a **Full-Stack Developer** with hands-on experience in building scalable, production-ready web applications using **React, Next.js, Node.js, and PostgreSQL**.  
+I focus on clean UI, robust REST APIs, maintainable architecture, and reliable deployments.
 
-💡 I'm passionate about creating visually stunning and user-friendly web applications.  
-🔧 Currently building projects with **React, Tailwind CSS, and JavaScript**.  
-🌱 Learning **Next.js**, **TypeScript**, and deeper **backend development**.
+I learn fast, adapt quickly, and take ownership of delivering real features end-to-end.
 
----
-
-### 💼 Work & Internships
-
-- 👨‍💻 **3-Month Internship** at **AMPARO SECURE TECH**, Bhilwara  
-- ☕ **IBM** Summer Internship  
-- 💻 **Advanced Java** course at **MSME Technology Centre**
+📍 Based in **Bhilwara, Rajasthan, India**  
+🎓 Pursuing **B.Tech in IT (Graduating 2026)**  
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-![HTML](https://img.shields.io/badge/HTML-E44D26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Core Java](https://img.shields.io/badge/Core_Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
----
-
-### 💻 Projects
-
-| Project Name             | Tech Stack         | Description                                                                 |
-|--------------------------|--------------------|-----------------------------------------------------------------------------|
-| Amazon Clone             | HTML, CSS          | Front-end clone of Amazon demonstrating layout and responsive design.      |
-| To-Do List               | HTML, CSS, JS      | Interactive task management with add/delete functionality.                 |
-| Music Player             | HTML, CSS, JS      | Web-based music player with play, pause, and track switching features.     |
-| E-commerce Website       | React, Tailwind CSS| Feature-rich frontend with wishlist, cart, filtering & product details.    |
+**Frontend:** React.js, Next.js, TypeScript, Tailwind CSS, HTML, CSS  
+**Backend:** Node.js, Express.js, REST APIs, JWT Auth, Multer  
+**Database:** PostgreSQL (schema design, migrations, indexing)  
+**Tools:** Git, GitHub, Postman, Swagger, VS Code  
+**Other:** Socket.IO (real-time chat), performance optimization  
 
 ---
 
-### 🤝 Soft Skills
+## 💼 Work Experience
 
-- Teamwork & Collaboration  
-- Communication  
-- Leadership  
-- Adaptability  
+### **Full Stack Developer Intern – Media City, Bhilwara (6 Months)**
+- Worked across **React/Next.js + Node.js** stack  
+- Built real-world modules, API integrations, and authentication features  
+- Contributed to production-level development workflows  
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dilip777333&show_icons=true&theme=tokyonight" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilip777333&theme=tokyonight" width="45%" />
-</p>
+### **React Developer Intern – AMPARO Secure Tech (3 Months)**
+- Built UI modules in **React + Tailwind**  
+- Implemented wishlist, product filtering, and cart features  
 
 ---
 
-### 📫 Connect With Me
+## 💻 Featured Projects
 
-- 📧 Email: [bhatidilip10@gmail.com](mailto:bhatidilip10@gmail.com)  
+### 🔷 **Full-Stack Classified Ads Platform (React + Node.js + PostgreSQL)**
+**Frontend (React + TypeScript):**
+- Built an OLX-style responsive UI  
+- User auth, product listings, filters, wishlist, image uploads  
+- Admin dashboard for managing users & posts  
+
+**Backend (Node.js + PostgreSQL):**
+- Secure JWT auth with role-based access  
+- RESTful APIs with structured schema + migrations  
+- Multer for file uploads, email/SMS alerts  
+- Swagger API docs + Socket.IO real-time chat  
+
+---
+
+### 🔷 **Marketplace Frontend Web App (Next.js + TypeScript + Tailwind CSS)**
+- Scalable marketplace UI with reusable components  
+- Authentication, wishlist/cart system  
+- SEO-friendly routing, lazy loading, optimized page performance  
+- Clean, maintainable folder structure  
+
+---
+
+### 🔷 **Security Equipment E-Commerce Platform (React + Vite + Tailwind CSS)**
+- Responsive UI for selling surveillance/security products  
+- Modular components, browsing, filters, cart, checkout  
+- Designed for **performance, accessibility, and front-end scalability**  
+- Clean folder architecture + reusable hooks  
+
+---
+
+### 🔷 **E-commerce Web App (React + Tailwind CSS)**
+- Product listing, filtering, wishlist, cart, checkout  
+- Real-time chat and optimized state management  
+
+---
+
+### 🔷 **JavaScript Mini Projects**
+- Music Player (play/pause + track switching)  
+- To-Do App (add/remove/complete tasks)  
+
+---
+
+## 🤝 Soft Skills
+
+- Fast Learner & Problem Solver  
+- Team Collaboration  
+- Strong Communication  
+- Ownership Mindset  
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: **bhatidilip10@gmail.com**  
 - 💼 LinkedIn: [linkedin.com/in/dilip-singh-bhati-b38b34287](https://www.linkedin.com/in/dilip-singh-bhati-b38b34287/)  
 - 🌐 GitHub: [github.com/dilip777333](https://github.com/dilip777333)
 
 ---
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-

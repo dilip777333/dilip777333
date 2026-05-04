@@ -2,107 +2,152 @@
 <h3 align="center">Full Stack Developer | React • Next.js • Node.js • PostgreSQL</h3>
 
 <p align="center">
-  <a href="mailto:bhatidilip10@gmail.com"><img src="https://img.shields.io/badge/Email-bhatidilip10@gmail.com-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://github.com/dilip777333"><img src="https://img.shields.io/badge/GitHub-dilip777333-black?style=for-the-badge&logo=github"></a>
-  <a href="https://www.linkedin.com/in/dilip-singh-bhati-b38b34287/"><img src="https://img.shields.io/badge/LinkedIn-Dilip%20Singh%20Bhati-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:bhatidilip10@gmail.com">
+    <img src="https://img.shields.io/badge/Email-bhatidilip10@gmail.com-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://github.com/dilip777333">
+    <img src="https://img.shields.io/badge/GitHub-dilip777333-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://www.linkedin.com/in/dilip-singh-bhati-b38b34287/">
+    <img src="https://img.shields.io/badge/LinkedIn-Dilip%20Singh%20Bhati-blue?style=for-the-badge&logo=linkedin">
+  </a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a **Full-Stack Developer** with hands-on experience in building scalable, production-ready web applications using **React, Next.js, Node.js, and PostgreSQL**.  
-I focus on clean UI, robust REST APIs, maintainable architecture, and reliable deployments.
+I'm a **Full-Stack Developer** focused on building **scalable, real-time, and production-ready web applications** using modern technologies like **React, Next.js, Node.js, and PostgreSQL**.
 
-I learn fast, adapt quickly, and take ownership of delivering real features end-to-end.
+I focus on:
 
-📍 Based in **Bhilwara, Rajasthan, India**  
-🎓 Pursuing **B.Tech in IT (Graduating 2026)**  
+* Clean, maintainable code
+* Scalable backend architecture
+* Real-world product development
+
+📍 Bhilwara, Rajasthan, India
+🎓 B.Tech IT (Graduating 2026)
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend:** React.js, Next.js, TypeScript, Tailwind CSS, HTML, CSS  
-**Backend:** Node.js, Express.js, REST APIs, JWT Auth, Multer  
-**Database:** PostgreSQL (schema design, migrations, indexing)  
-**Tools:** Git, GitHub, Postman, Swagger, VS Code  
-**Other:** Socket.IO (real-time chat), performance optimization  
+**Frontend:** React.js, Next.js, TypeScript, Tailwind CSS
+**Backend:** Node.js, Express.js, REST APIs, JWT Auth, Socket.IO
+**Database:** PostgreSQL, MongoDB
+**Tools:** Git, GitHub, Postman, Swagger, VS Code, Render, Vercel
+**Other:** Cloudinary, Multer, Performance Optimization
 
 ---
 
-## 💼 Work Experience
+## 💼 Experience
 
-### **Full Stack Developer Intern – Media City, Bhilwara (6 Months)**
-- Worked across **React/Next.js + Node.js** stack  
-- Built real-world modules, API integrations, and authentication features  
-- Contributed to production-level development workflows  
+### **Full Stack Developer Intern – Media City (Jun 2025 – Nov 2025)**
 
-### **React Developer Intern – AMPARO Secure Tech (3 Months)**
-- Built UI modules in **React + Tailwind**  
-- Implemented wishlist, product filtering, and cart features  
+* Built and integrated production-level APIs and frontend modules
+* Worked on real-world deployments and debugging issues
+* Collaborated on scalable feature development
+
+### **React Developer Intern – AMPARO Secure Tech (Jan 2025 – Apr 2025)**
+
+* Developed responsive UI using React + Tailwind
+* Implemented filtering, wishlist, and cart features
 
 ---
 
 ## 💻 Featured Projects
 
-### 🔷 **Full-Stack Classified Ads Platform (React + Node.js + PostgreSQL)**
-**Frontend (React + TypeScript):**
-- Built an OLX-style responsive UI  
-- User auth, product listings, filters, wishlist, image uploads  
-- Admin dashboard for managing users & posts  
+### 🔷 AI-Powered API Testing Platform (API Buddy)
 
-**Backend (Node.js + PostgreSQL):**
-- Secure JWT auth with role-based access  
-- RESTful APIs with structured schema + migrations  
-- Multer for file uploads, email/SMS alerts  
-- Swagger API docs + Socket.IO real-time chat  
+🔗 Live: https://api-buddy-frontend-am7g.vercel.app/
+
+* Built a full-stack intelligent API testing tool using Next.js, Node.js, MongoDB
+* Integrated AI (OpenAI, Gemini) for test case generation, validation, and debugging
+* Implemented real-time collaboration using Socket.IO
+* Designed secure JWT authentication and caching mechanisms
+* Mimics real-world API tools like Postman
 
 ---
 
-### 🔷 **Marketplace Frontend Web App (Next.js + TypeScript + Tailwind CSS)**
-- Scalable marketplace UI with reusable components  
-- Authentication, wishlist/cart system  
-- SEO-friendly routing, lazy loading, optimized page performance  
-- Clean, maintainable folder structure  
+### 🔷 Real-Time Chat Application (ChatUI)
+
+🔗 Live: https://chat-theta-wine-90.vercel.app/
+
+* Developed real-time chat system using Socket.IO
+* Implemented JWT authentication and MongoDB storage
+* Optimized low-latency communication and event handling
+* Supports scalable concurrent users
 
 ---
 
-### 🔷 **Security Equipment E-Commerce Platform (React + Vite + Tailwind CSS)**
-- Responsive UI for selling surveillance/security products  
-- Modular components, browsing, filters, cart, checkout  
-- Designed for **performance, accessibility, and front-end scalability**  
-- Clean folder architecture + reusable hooks  
+### 🔷 Full-Stack Classified Ads Platform (ClassifyPro)
+
+
+* OLX-style platform built with Next.js, Node.js, PostgreSQL
+* Features: auth, listings, filters, wishlist, real-time chat
+* Role-based access + admin dashboard
+* Cloudinary image uploads + email/SMS notifications
 
 ---
 
-### 🔷 **E-commerce Web App (React + Tailwind CSS)**
-- Product listing, filtering, wishlist, cart, checkout  
-- Real-time chat and optimized state management  
+## 🧪 Other Projects
+
+### 🔹 Marketplace Frontend (Next.js + TypeScript)
+
+
+* SEO-friendly UI with reusable components
+* Implemented authentication, wishlist, and cart
+* Optimized performance with lazy loading
 
 ---
 
-### 🔷 **JavaScript Mini Projects**
-- Music Player (play/pause + track switching)  
-- To-Do App (add/remove/complete tasks)  
+### 🔹 Security Equipment E-Commerce Platform
+
+
+* Responsive UI with React + Tailwind
+* Product browsing, filtering, cart, checkout
+* Focused on performance and scalability
+
+---
+
+### 🔹 E-commerce Web App (React + Tailwind CSS)
+
+
+* Product listing, filtering, wishlist, cart
+* Integrated basic real-time chat
+
+---
+
+### 🔹 JavaScript Mini Projects
+
+* 🎵 Music Player (play/pause, track switching)
+* ✅ To-Do App (CRUD operations)
 
 ---
 
 ## 🤝 Soft Skills
 
-- Fast Learner & Problem Solver  
-- Team Collaboration  
-- Strong Communication  
-- Ownership Mindset  
+* Problem Solving
+* Team Collaboration
+* Adaptability
+* Communication
 
 ---
 
 ## 📫 Connect With Me
 
-- 📧 Email: **bhatidilip10@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/dilip-singh-bhati-b38b34287](https://www.linkedin.com/in/dilip-singh-bhati-b38b34287/)  
-- 🌐 GitHub: [github.com/dilip777333](https://github.com/dilip777333)
+<p align="center">
+  <a href="mailto:bhatidilip10@gmail.com">
+    <img src="https://img.shields.io/badge/Email-bhatidilip10@gmail.com-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://github.com/dilip777333">
+    <img src="https://img.shields.io/badge/GitHub-dilip777333-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://www.linkedin.com/in/dilip-singh-bhati-b38b34287/">
+    <img src="https://img.shields.io/badge/LinkedIn-Dilip%20Singh%20Bhati-blue?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> “Code is like humor. When you have to explain it, it’s bad.”

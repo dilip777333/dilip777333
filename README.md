@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dilip Singh Bhati</h1>
-<h3 align="center">Full Stack Developer | React • Next.js • Node.js • PostgreSQL</h3>
+<h3 align="center">Full Stack Developer | React • Next.js • Node.js • PostgreSQL • Mongo DB</h3>
 
 <p align="center">
   <a href="mailto:bhatidilip10@gmail.com">
